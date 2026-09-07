@@ -964,7 +964,7 @@ SUM(gold_fact_maintenance[downtime_hours])
 
 # Power BI Dashboards
 
-## Dashboard 1 — Logistics Overview
+## Dashboard 1 — Executive Overview
 
 ### Purpose
 
@@ -984,7 +984,9 @@ The first dashboard provides an executive overview of business and logistics act
 - Revenue by month
 - Total revenue by customer
 - Load count by load type
-- Business performance overview
+
+  <img width="1439" height="800" alt="image" src="https://github.com/user-attachments/assets/7141f2e1-15b8-406d-b30a-b43d040ca17f" />
+
 
 This dashboard provides a high-level view of transportation activity and financial performance.
 
