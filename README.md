@@ -1045,6 +1045,8 @@ This dashboard helps identify:
 - Maintenance categories with the highest costs
 - Maintenance downtime by type
 
+<img width="1427" height="789" alt="image" src="https://github.com/user-attachments/assets/76ac16a4-9dab-4571-8f8b-21777ba3d711" />
+
 ---
 
 # Validation Results
