@@ -1011,6 +1011,8 @@ The second dashboard evaluates fleet utilization, fuel efficiency, and operating
 - Top 10 trucks by maintenance cost
 - Fleet performance detail table
 
+<img width="1422" height="802" alt="image" src="https://github.com/user-attachments/assets/ab1f08f4-dd64-43f9-b02c-1794a2071efd" />
+
 This dashboard helps identify inefficient trucks, fuel consumption patterns, and maintenance-heavy assets.
 
 ---
