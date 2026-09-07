@@ -1270,53 +1270,6 @@ Explicit DAX measures were created for:
 
 ---
 
-# Suggested Repository Structure
-
-```text
-fleet-logistics-fabric-project/
-│
-├── README.md
-│
-├── notebooks/
-│   ├── bronze/
-│   │   ├── bronze_customers
-│   │   ├── bronze_drivers
-│   │   ├── bronze_trucks
-│   │   ├── bronze_trailers
-│   │   ├── bronze_facilities
-│   │   ├── bronze_routes
-│   │   ├── bronze_loads
-│   │   ├── bronze_trips
-│   │   ├── bronze_fuel_purchases
-│   │   ├── bronze_maintenance
-│   │   ├── bronze_delivery_events
-│   │   └── bronze_safety_incidents
-│   │
-│   ├── silver/
-│   │   └── silver_transformations
-│   │
-│   └── gold/
-│       └── gold_star_schema
-│
-├── powerbi/
-│   ├── dashboard_1_logistics_overview.png
-│   ├── dashboard_2_fleet_efficiency.png
-│   └── dashboard_3_safety_maintenance.png
-│
-├── documentation/
-│   ├── architecture.png
-│   ├── data_model.png
-│   └── validation_results.md
-│
-└── screenshots/
-    ├── landing_layer.png
-    ├── bronze_layer.png
-    ├── silver_layer.png
-    ├── gold_layer.png
-    └── powerbi_model.png
-```
-
----
 
 # How to Reproduce the Project
 
