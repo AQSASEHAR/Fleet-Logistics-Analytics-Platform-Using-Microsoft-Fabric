@@ -85,7 +85,6 @@ The main objectives of this project are to:
 - PySpark
 - Spark SQL
 - Delta Lake
-- Data Pipelines
 - Power BI
 - GitHub
 
@@ -93,7 +92,7 @@ The main objectives of this project are to:
 
 ## Architecture
 
-The project follows the Medallion architecture.
+The project was implemented using Fabric notebooks for ingestion, data quality validation, transformation, Delta Lake MERGE operations, and Medallion-layer processing. Power BI was used for the final semantic model and dashboards.
 
 ### Landing Layer
 
