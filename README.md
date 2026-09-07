@@ -840,6 +840,9 @@ The relationships use:
 - Active relationships
 - Single-direction filtering from dimensions to facts
 
+  <img width="1742" height="703" alt="image" src="https://github.com/user-attachments/assets/4605402d-842a-4e82-bb47-f0fd6ac054be" />
+
+
 ---
 
 # Power BI Measures
